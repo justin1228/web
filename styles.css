@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.main{
+    text-align: center;
+}
+table{
+    color: white;
+    text-align: center;
+}
+.textview{
+    width: 156px;
+    padding:5px;
+    height: 30px;
+}
+.num{
+    background-color: grey;
+    width: 50px;
+    height:50px;
+    font-size: 25px;
+    margin: 3px;
+}
+.op{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+}
+.zero{
+    background-color: grey;
+    width: 100px;
+    height:50px;
+}
+.clean{
+    background-color: lightgray;
+    width: 50px;
+    height: 50px;
+}
